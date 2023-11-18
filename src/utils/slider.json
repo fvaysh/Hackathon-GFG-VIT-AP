@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Manipal Hospital",
+    "price": "350",
+    "detail": "Sinha Road, Inavolu, Vijaywada",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sri Ram Healthcare",
+    "price": "353",
+    "detail": "Sector - 101, Gollapudi, Vijaywada",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Ravenshaw Hospital",
+    "price": "850",
+    "detail": "DL Area, Benz Circle, Vijaywada",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Aastha Hospital",
+    "price": "340",
+    "detail": "Ravikonda Nadar, Sector - 166, Vijaywada",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Andhra Hospitals",
+    "price": "350",
+    "detail": "Bhavanipuram, Vijaywada",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Aster Ramesh Hospitals",
+    "price": "670",
+    "detail": "MG Road Unit, Sector - 88, Vijaywada",
+    "image": "./r3.png"
+  }
+]
